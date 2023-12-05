@@ -1,0 +1,30 @@
+{
+  "expo": {
+    "name": "My Todo by Anggi",
+    "slug": "TodoList",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icontodo.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash-custom.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/icontodo.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    }
+  }
+}
